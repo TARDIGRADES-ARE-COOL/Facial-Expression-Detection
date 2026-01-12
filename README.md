@@ -277,7 +277,7 @@ Remove `*.keras` if you want to push your trained model file.
 
 ---
 
-## Next improvements (optional)
+## Next improvements
 
 - Add early stopping
 - Add data augmentation
@@ -285,5 +285,5 @@ Remove `*.keras` if you want to push your trained model file.
 
 ---
 
-You now have a simple end-to-end pipeline for:
+simple end-to-end pipeline for:
 **train → save → predict your own images**.
